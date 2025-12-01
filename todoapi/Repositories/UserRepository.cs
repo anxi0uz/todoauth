@@ -22,9 +22,9 @@ public class UserRepository : IUserRepository
         return await _context.Users.AsNoTracking().ToListAsync();
     }
 
-    public async Task<User?> GetUser(int id)
+    public async Task<User?> GetUser(string username)
     {
-        return await _context.Users.Where(p=>p.Id==id).FirstOrDefaultAsync();
+        return await _context.Users.Where(p=>p.Username==username).FirstOrDefaultAsync();
     }
     public async Task<int> CreateUser(UserRequest request)
     {

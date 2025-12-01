@@ -24,7 +24,7 @@ public class AuthService : IAuthService
 
     public async Task<AuthResponse?> Login (User user)
     {
-        var user1 = await _userRepository.GetUser(user.Id);
+        var user1 = await _userRepository.GetUser(user.Username);
         if(_passwordHasher.VerifyHashedPassword(null, user1.Password, user.Password) == PasswordVerificationResult.Failed)
             throw new AuthenticationException();    
         if (user1 == null)
