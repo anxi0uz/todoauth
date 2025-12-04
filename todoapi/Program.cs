@@ -51,8 +51,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.MapUserEndpoints();
 app.UseCors(opt => opt.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
+app.MapUserEndpoints();
 app.MapTodoEndpoints();
 app.Run();
 
