@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\dto\\todorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\dto\\todorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|solutionrelative:todoapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7396D6C-8D66-41C5-B2A6-1CEC4936ACB7}|todoapi\\todoapi.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todoauth\\todoapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,59 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "todoapi\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Services\\AuthService.cs",
-              "RelativeToolTip": "todoapi\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:23:46.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Endpoints\\UserEndpoints.cs",
-              "RelativeDocumentMoniker": "todoapi\\Endpoints\\UserEndpoints.cs",
-              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Endpoints\\UserEndpoints.cs",
-              "RelativeToolTip": "todoapi\\Endpoints\\UserEndpoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:22:30.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TodoEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Endpoints\\TodoEndpoints.cs",
-              "RelativeDocumentMoniker": "todoapi\\Endpoints\\TodoEndpoints.cs",
-              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Endpoints\\TodoEndpoints.cs",
-              "RelativeToolTip": "todoapi\\Endpoints\\TodoEndpoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:22:29.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "UserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Dto\\UserRequest.cs",
-              "RelativeDocumentMoniker": "todoapi\\Dto\\UserRequest.cs",
-              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Dto\\UserRequest.cs",
-              "RelativeToolTip": "todoapi\\Dto\\UserRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:21:09.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Dto\\AuthResponse.cs",
               "RelativeDocumentMoniker": "todoapi\\Dto\\AuthResponse.cs",
@@ -154,25 +102,24 @@
               "RelativeToolTip": "todoapi\\Dto\\AuthResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:20:46.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:20:46.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "todoapi\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Properties\\launchSettings.json",
               "RelativeToolTip": "todoapi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-12-01T08:18:44.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\DataAccess\\AppDbContext.cs",
               "RelativeDocumentMoniker": "todoapi\\DataAccess\\AppDbContext.cs",
@@ -180,12 +127,11 @@
               "RelativeToolTip": "todoapi\\DataAccess\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T06:30:11.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T06:30:11.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\appsettings.json",
               "RelativeDocumentMoniker": "todoapi\\appsettings.json",
@@ -193,25 +139,24 @@
               "RelativeToolTip": "todoapi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-01T06:09:29.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T06:09:29.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Program.cs",
               "RelativeDocumentMoniker": "todoapi\\Program.cs",
               "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Program.cs",
               "RelativeToolTip": "todoapi\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T06:09:09.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TodoRequest.cs",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Dto\\TodoRequest.cs",
               "RelativeDocumentMoniker": "todoapi\\Dto\\TodoRequest.cs",
@@ -224,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "todoapi\\Services\\TokenService.cs",
@@ -232,25 +177,73 @@
               "RelativeToolTip": "todoapi\\Services\\TokenService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA7wCUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T09:54:44.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T09:54:44.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "todoapi\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "todoapi\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T08:24:15.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "UserEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Endpoints\\UserEndpoints.cs",
+              "RelativeDocumentMoniker": "todoapi\\Endpoints\\UserEndpoints.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Endpoints\\UserEndpoints.cs",
+              "RelativeToolTip": "todoapi\\Endpoints\\UserEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:22:30.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "todoapi\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Services\\AuthService.cs",
+              "RelativeToolTip": "todoapi\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:23:46.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Dto\\UserRequest.cs",
+              "RelativeDocumentMoniker": "todoapi\\Dto\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Dto\\UserRequest.cs",
+              "RelativeToolTip": "todoapi\\Dto\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:21:09.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Endpoints\\TodoEndpoints.cs",
+              "RelativeDocumentMoniker": "todoapi\\Endpoints\\TodoEndpoints.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Endpoints\\TodoEndpoints.cs",
+              "RelativeToolTip": "todoapi\\Endpoints\\TodoEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:22:29.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "TodoRepository.cs",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Repositories\\TodoRepository.cs",
               "RelativeDocumentMoniker": "todoapi\\Repositories\\TodoRepository.cs",
@@ -258,12 +251,11 @@
               "RelativeToolTip": "todoapi\\Repositories\\TodoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:24:10.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T09:24:10.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Models\\User.cs",
               "RelativeDocumentMoniker": "todoapi\\Models\\User.cs",
@@ -271,12 +263,11 @@
               "RelativeToolTip": "todoapi\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T06:29:26.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T06:29:26.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Todo.cs",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Models\\Todo.cs",
               "RelativeDocumentMoniker": "todoapi\\Models\\Todo.cs",
@@ -284,12 +275,11 @@
               "RelativeToolTip": "todoapi\\Models\\Todo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T06:29:25.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T06:29:25.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todoauth\\todoapi\\Abstractions\\IUserRepository.cs",
               "RelativeDocumentMoniker": "todoapi\\Abstractions\\IUserRepository.cs",
@@ -297,8 +287,7 @@
               "RelativeToolTip": "todoapi\\Abstractions\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:24:33.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:24:33.947Z"
             },
             {
               "$type": "Document",
@@ -310,8 +299,7 @@
               "RelativeToolTip": "todoapi\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T06:29:14.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T06:29:14.714Z"
             },
             {
               "$type": "Document",
@@ -323,8 +311,7 @@
               "RelativeToolTip": "todoapi\\Migrations\\20251201061933_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAABOwBEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T06:29:14.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T06:29:14.918Z"
             }
           ]
         }
